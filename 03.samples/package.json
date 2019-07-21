@@ -1,0 +1,17 @@
+{
+  "name": "typescript-fundamentals-03.samples",
+  "version": "1.0.0",
+  "description": "TypeScript Fundamentals. Часть 1. Переменные и функции",
+  "scripts": {
+    "build": "tsc -w",
+    "start": "lite-server"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "lite-server": "^2.5.3",
+    "typescript": "^3.5.3"
+  },
+  "keywords": ["typescript", "fundamentals", "fuction", "variables"],
+  "author": "ITDVN",
+  "license": "ISC"
+}
