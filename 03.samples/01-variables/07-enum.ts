@@ -68,6 +68,6 @@ function drawImage2(fruit: Fruit) {
 
 document.addEventListener("DOMContentLoaded", () =>{
   drawImage(0); // создать изображение с яблоком (не очевидно)
-  drawImage2(Fruit.Tomato); // создать изображение апельсина (код самодокументируемый)
+  drawImage2(Fruit.Orange); // создать изображение апельсина (код самодокументируемый)
 })
 

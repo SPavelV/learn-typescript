@@ -63,6 +63,6 @@ function drawImage2(fruit) {
 }
 document.addEventListener("DOMContentLoaded", function () {
     drawImage(0);
-    drawImage2(Fruit.Tomato);
+    drawImage2(Fruit.Orange);
 });
 //# sourceMappingURL=07-enum.js.map
