@@ -1,10 +1,10 @@
 // обычная функция 
-function add1(x, y) {
-  return x + y;
-}
+// function add1(x, y) {
+//   return x + y;
+// }
 
-let result1 = add1(1, 2);
-console.log(result1);
+// let result1 = add1(1, 2);
+// console.log(result1);
 
 // типизированная функция. Принимает 2 аргумента типа number и возвращает значение типа number
 
