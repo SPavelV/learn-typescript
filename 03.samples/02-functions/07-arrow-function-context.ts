@@ -19,6 +19,6 @@ let setting = {
   },
 
   test2: function() {
-    repeatOperation(3, () => console.log(this.displyName)) // arrow function захватывате контексе
+    repeatOperation(3, () => console.log(this.displyName)) // arrow function захватывает контексе
   }
 }
