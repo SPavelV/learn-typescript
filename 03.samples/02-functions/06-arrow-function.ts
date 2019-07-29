@@ -8,4 +8,4 @@ let incrementArrow1 = (x: number) => { return x + 1; }
 
 let incrementArrow2 = (x: number) => x + 1;
 
-let incrementArrow3 = x => x + 1;
+let incrementArrow3 : (x: number) => number = x => x + 1;
